@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@payloadcms'],
+  extends: ['@payloadcms', '@prettier'],
 }
